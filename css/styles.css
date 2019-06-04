@@ -1,0 +1,133 @@
+/* TAG SELECTOR */
+body{
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+h1{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+
+h2{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+
+h3{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  padding-top: 40px;
+  line-height: 2;
+}
+
+footer{
+  background-color:  hsl(192, 100%, 9%);
+  padding: 3% 10%;
+  color:white;
+  text-align: left;
+  margin-top: 10%;
+}
+
+span{
+  font-size: small;
+  font-weight: bold;
+}
+
+a{
+  color:white;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+.navbar-brand
+{
+  font-family: "ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: white;
+}
+/* INTRODUCTION SECTION */
+#intro{
+  padding: 3% 10%;
+  background-image: url("../images/bg-hero-desktop.svg");
+}
+
+#intro p{
+  margin: 20px 0;
+}
+
+.mockups-img{
+  width: 100%;
+}
+
+.intro-content{
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.header{
+  margin-bottom: 100px;
+}
+
+.try-button{
+  border-radius: 25px;
+  box-shadow: 0px 1px 10px #a8a8a8;
+}
+
+.start-button{
+  box-shadow: 0px 1px 10px #a8a8a8;
+  border-radius: 25px;
+  border-width: 0;
+  background-color: hsl(322, 100%, 66%);
+  color:white;
+}
+
+/* CONTENT SECTION */
+#content{
+  padding: 3% 10%;
+  text-align: center;
+}
+
+.content-cell
+{
+  padding: 50px;
+  box-shadow: 0px 1px 13px #ebebeb;
+  border-radius: 10px;
+  text-align: left;
+  margin: 30px 0;
+
+}
+
+.content-img{
+  width: 60%;
+}
+
+#content p{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  color: grey;
+}
+
+/* SMALL CONTAINER */
+.small-container{
+  box-shadow: 0px 1px 13px #ebebeb;
+  padding: 0 40px 20px 40px;
+  border-radius: 10px;
+  background-color: white;
+  color:black;
+  margin-top: -10%;
+  text-align: center;
+  width: 400px;
+}
+
+.small-container h3{
+}
+
+/*FOOTER SECTION*/
+.icon{
+  color: white;
+  margin-left: 5px;
+}
